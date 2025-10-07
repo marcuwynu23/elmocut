@@ -141,3 +141,7 @@ new features.txt
 TODO.txt
 *.py_backup
 /src/tools/restart.exe
+
+
+
+devenv/
